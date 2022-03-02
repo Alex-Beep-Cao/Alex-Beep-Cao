@@ -28,7 +28,7 @@
 
 <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;">
 
-<<img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width: 100%;">
 
 </div>
 
