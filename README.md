@@ -3,7 +3,7 @@
 
 
 <div> 
-<img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src=https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif style="max-width: 100%;">
+<img src="https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif" width="100" data-canonical-src=https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif style="max-width: 100%;">
 <div align="center">
   <h3>👋 My name is Alex Cao </h3>
   <h3>🌱 I'm a Developer </h3>
