@@ -2,11 +2,11 @@
 
 
 
-<div> 
+<div align="center"> 
+<img src="https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif" width="500" data-canonical-src=https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif style="max-width: 100%;">
 
 <div align="center">
   <h3>👋 My name is Alex Cao </h3>
-  <img src="https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif" width="100" data-canonical-src=https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif style="max-width: 100%;">
   <h3>🌱 I'm a Developer </h3>
   <p> 📫 linkedin: <a href="https://www.linkedin.com/in/alex-cao-b906b218a/">CliCK ME</a></p>
 </div>
