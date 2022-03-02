@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>👋 My name is Alex Cao </h3>
-  <h3>🌱 I'm a Developer, I have the universe in my head ！Nice to meet you and Have fun ~</h3>
+  <h3>🌱 I'm a Developer, I have the universe in my head</h3>
   <p> 📫 linkedin: <a href="https://www.linkedin.com/in/alex-cao-b906b218a/">CliCK ME</a></p>
 </div>
 
